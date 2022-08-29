@@ -1,0 +1,15 @@
+sbot:
+  name: evlampia_bot
+  token: 219739200:AAHXCuDWJPoRhUAjFBXFmljVJhR2uVXdmwc
+  timeout: 120000
+
+logging:
+  level:
+    ROOT: DEBUG
+#    *: DEBUG
+#    com: TRACE
+#    org:
+#      springframework: TRACE
+#      springframework.statemachine: TRACE
+#      schors: TRACE
+#      telegram: TRACE

@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:opds="http://opds-spec.org/2010/catalog"> <id>tag:search:books:Обитель:</id>
+    <title>Результат поиска</title>
+    <updated>2022-08-10T08:13:44+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <link href="/opds/search?searchTerm=%D0%9E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C" rel="up" type="application/atom+xml;profile=opds-catalog" />
+    <link href="/opds/search?searchType=books&amp;searchTerm=%D0%9E%D0%B1%D0%B8%D1%82%D0%B5%D0%BB%D1%8C&amp;pageNumber=1" rel="next" type="application/atom+xml;profile=opds-catalog" />
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Бег млекопитающих. Приспособительные особенности органов движения</title>
+        <author> <name>Гамбарян Петр Петрович</name>
+            <uri>/a/57496</uri>
+        </author>
+        <link href="/opds/author/57496" rel="related" type="application/atom+xml" title="Все книги автора Гамбарян Петр Петрович" />
+        <category term="Биология, биофизика, биохимия " label="Биология, биофизика, биохимия " />
+        <category term="Домашние животные" label="Домашние животные" />
+        <dc:language>ru</dc:language>
+        <dc:format>djvu</dc:format>
+        <dc:issued>1972</dc:issued>
+        <content type="text/html">Бег млекопитающих. Приспособительные особенности органов движения. Гамбарян П. П. 1972. Изд-во «Наука», Ленингр. отд., Л. 1–334.
+
+            Монография посвящена выяснению путей специализации млекопитающих в беге и является результатом многолетних исследований, проведенных в природных и экспериментальных условиях с широким применением рапидной киносъемки. Последовательно разбираются аллюры млекопитающих, биомеханика их наземной локомоции, приспособление к бегу у копытных, хоботных, хищных, зайцеобразных, грызунов, кенгуру. В обобщающей главе дана классификация способов и форм бега млекопитающих. Илл. – 217, табл. – 37, библ. – 185 назв.
+
+            ACADEMY OF SCIENCES OF THE USSR
+            ZOOLOGICAL INSTITUTE
+            P. P. GAMBARJAN
+            THE RUNNING OF MAMMALS
+            Adaptational features of locomotional organs
+
+            УДК 591.171:599.0
+            Ответственные редакторы А. А. СТРЕЛКОВ и К. А. ЮДИН
+            Петр Петрович Гамбарян
+            БЕГ МЛЕКОПИТАЮЩИХ
+            Приспособительные особенности органов движения
+
+            Утверждено к печати Зоологическим институтом Академии наук СССР
+
+            Редактор издательства Н. И. Арронет
+            Художник Д. А. Андреев
+            Технический редактор И. М. Кашеварова
+            Корректоры Л. Б. Лисой и Т. Б. Синельникова
+            Сдано в набор 28/11 1972 г. Подписано к печати 22/VIII
+            1972 г. Формат бумаги 70х108 1/16. Бумага № 1. Печ. л. 21=29.40 усл. печ. л. Уч.-изд. л. 29.76. Изд. 4545.
+            Тип. зак. № 919. М-14622. Тираж 1600.
+            Цена 2 руб.
+            Ленинградское отделение издательства «Наука» 199164, Ленинград, Менделеевская линия, д. 1
+            1-я тип. издательства «Наука» 199034, Ленинград, 9 линия, д. 12&lt;br/&gt;Год издания: 1972&lt;br/&gt;Формат: djvu&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 6514 Kb&lt;br/&gt;Скачиваний: 1395&lt;br/&gt;</content>
+        <link href="/b/180330/download" rel="http://opds-spec.org/acquisition/open-access" type="application/djvu" />
+        <link href="/b/180330" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:c9b15579bb3605970971724da1f77426</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Венера, мужская обитель</title>
+        <author> <name>Тенн Уильям</name>
+            <uri>/a/167448</uri>
+        </author>
+        <link href="/opds/author/167448" rel="related" type="application/atom+xml" title="Все книги автора Тенн Уильям" />
+        <category term="Научная Фантастика" label="Научная Фантастика" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2003</dc:issued>
+        <content type="text/html">Перевод: Ватик В&lt;br/&gt;Год издания: 2003&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 53 Kb&lt;br/&gt;Скачиваний: 1037&lt;br/&gt;</content>
+        <link href="/b/204488/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/204488/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/204488/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/204488/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/204488/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/204488/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/204488" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:6b44e257b82a67b758708b0469b60a7b</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Вечный дом / The House that Stood Still [= А дом стоит себе спокойно…; Обитель вечности]</title>
+        <author> <name>Ван Вогт Альфред Элтон</name>
+            <uri>/a/25690</uri>
+        </author>
+        <link href="/opds/author/25690" rel="related" type="application/atom+xml" title="Все книги автора Ван Вогт Альфред Элтон" />
+        <category term="Научная Фантастика" label="Научная Фантастика" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1993</dc:issued>
+        <link href="/opds/sequencebooks/75244" rel="related" type="application/atom+xml" title="Все книги серии &quot;Ван Вогт, Альфред. Романы&quot;" />
+        <content type="text/html">Перевод: Семенычев Ю. К.&lt;br/&gt;Год издания: 1993&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 325 Kb&lt;br/&gt;Скачиваний: 4024&lt;br/&gt;Серия: Ван Вогт, Альфред. Романы&lt;br/&gt;</content>
+        <link href="/i/12/155612/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/12/155612/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/12/155612/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/12/155612/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/155612/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/155612/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/155612/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/155612/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/155612/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/155612/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/155612" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:846c75fd390018e566b48d53f9f72741</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Власьева обитель</title>
+        <author> <name>Гаврилов Дмитрий Анатольевич</name>
+            <uri>/a/3073</uri>
+        </author>
+        <link href="/opds/author/3073" rel="related" type="application/atom+xml" title="Все книги автора Гаврилов Дмитрий Анатольевич" />
+        <category term="Фэнтези" label="Фэнтези" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2002</dc:issued>
+        <link href="/opds/sequencebooks/32375" rel="related" type="application/atom+xml" title="Все книги серии &quot;Великий и Ужасный (сборник)&quot;" />
+        <content type="text/html">
+            &lt;p class=book&gt;Отрывок из романа «Наследие Арконы», в котором впервые появляется Инегельд — ученик великих древних богов.&lt;/p&gt;
+            &lt;br/&gt;Год издания: 2002&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 121 Kb&lt;br/&gt;Скачиваний: 1639&lt;br/&gt;Серия: Великий и Ужасный (сборник) #6&lt;br/&gt;</content>
+        <link href="/i/27/343327/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/27/343327/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/27/343327/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/27/343327/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/343327/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/343327/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/343327/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/343327/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/343327/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/343327/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/343327" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:cea00c8ca4af9a1c7c10101acfcd8aec</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Гарри Поттер и Обитель Бессмертия [HogwartsNet]</title>
+        <author> <name>akchisko_san1</name>
+            <uri>/a/94591</uri>
+        </author>
+        <link href="/opds/author/94591" rel="related" type="application/atom+xml" title="Все книги автора akchisko_san1" />
+        <category term="Фанфик" label="Фанфик" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <link href="/opds/sequencebooks/12192" rel="related" type="application/atom+xml" title="Все книги серии &quot;Проект «Поттер-Фанфикшн»&quot;" />
+        <content type="text/html">
+            &lt;p class=book&gt;Седьмой год обучения Гарри. И в Хогвартс он таки возвращается&lt;/p&gt;
+            &lt;p class=book&gt;Mир Гарри Поттера: Гарри Поттер&lt;/p&gt;
+            &lt;p class=book&gt;Гарри Поттер, Рон Уизли, Гермиона Грейнджер, Драко Малфой&lt;/p&gt;
+            &lt;p class=book&gt;AU/ Детектив/ Приключения || джен || PG-13&lt;/p&gt;
+            &lt;p class=book&gt;Размер: макси || Глав: 36&lt;/p&gt;
+            &lt;p class=book&gt;Начало: 22.03.09 || Последнее обновление: 15.05.09&lt;/p&gt;
+            &lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 3035 Kb&lt;br/&gt;Скачиваний: 6443&lt;br/&gt;Серия: Проект «Поттер-Фанфикшн»&lt;br/&gt;</content>
+        <link href="/b/273834/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/273834/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/273834/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/273834/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/273834/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/273834/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/273834" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:9888c3ddc35e5c964d8caa8eca5297d6</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Госпожа замка Меллин [= Обитель страсти/Хозяйка Меллина/Mistress of Mellyn]</title>
+        <author> <name>Холт Виктория</name>
+            <uri>/a/4835</uri>
+        </author>
+        <link href="/opds/author/4835" rel="related" type="application/atom+xml" title="Все книги автора Холт Виктория" />
+        <category term="Остросюжетные любовные романы" label="Остросюжетные любовные романы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1993</dc:issued>
+        <link href="/opds/sequencebooks/69441" rel="related" type="application/atom+xml" title="Все книги серии &quot;Mistress of Mellyn - ru (версии)&quot;" />
+        <link href="/opds/sequencebooks/69446" rel="related" type="application/atom+xml" title="Все книги серии &quot;Холт - романы вне серий&quot;" />
+        <content type="text/html">
+            &lt;p class=book&gt;Действие романа происходит во второй половине XIX века. Героиня романа – юная и привлекательная Марта Лей, натура пылкая и незаурядная, – лишившись отца и поддержки родных, становится гувернанткой.&lt;/p&gt;
+            &lt;p class=book&gt;Приехав в Маунт Меллин, холодный и мрачный замок, и познакомившись с его обитателями. Марта понимает, почему ее предшественницы не задерживались там надолго. Она чувствует, что старинный замок хранит много страшных тайн…&lt;/p&gt;
+            &lt;p class=book&gt;Сложная сюжетная линия, в которой тесно переплелись любовь и коварство, страх и интриги, держит читателя в напряжении до самой последней страницы.&lt;/p&gt;
+            &lt;br/&gt;Перевод: Тарасевич М П, Провоторова Е Д&lt;br/&gt;Год издания: 1993&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 869 Kb&lt;br/&gt;Скачиваний: 11521&lt;br/&gt;Серия: Mistress of Mellyn - ru (версии)&lt;br/&gt;Серия: Холт - романы вне серий&lt;br/&gt;</content>
+        <link href="/i/72/233472/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/72/233472/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/72/233472/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/72/233472/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/233472/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/233472/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/233472/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/233472/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/233472/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/233472/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/233472" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:b9aaf2a2f76ffe441b9332a17cd60892</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Грозовая обитель [Thunder Heights]</title>
+        <author> <name>Уитни Филлис</name>
+            <uri>/a/33198</uri>
+        </author>
+        <link href="/opds/author/33198" rel="related" type="application/atom+xml" title="Все книги автора Уитни Филлис" />
+        <category term="Остросюжетные любовные романы" label="Остросюжетные любовные романы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1996</dc:issued>
+        <link href="/opds/sequencebooks/19825" rel="related" type="application/atom+xml" title="Все книги серии &quot;Полнолуние любви&quot;" />
+        <content type="text/html">
+            &lt;p class=book&gt;Красавица Алтея, младшая и самая любимая из трех дочерей преуспевающего бизнесмена, трагически погибла в поместье своего отца с мрачным названием «Грозовая обитель». Десять лет спустя ее дочь, юная Камилла Кинг, став владелицей усадьбы, решила лично расследовать обстоятельства смерти матери. Увы — все оказалось не так просто. Пожилые тетушки Камиллы и приемный сын одной из них — чинят препятствия в расследовании и уговаривают девушку как можно скорее покинуть поместье.&lt;/p&gt;
+            &lt;p class=book&gt;Похоже, кто-то из них не ограничился уговорами и покушается на жизнь Камиллы, пытаясь замаскировать попытку убийства под несчастный случай. Неужели смерть матери была подстроена близкими родственниками, а теперь они хотят избавиться от новой наследницы?&lt;/p&gt;
+            &lt;p class=book&gt;С этими сомнениями Камилла приходит к Россу Грейнджеру, талантливому инженеру, который работал в фирме ее деда и поселился по соседству с «Грозовой обителью». Росс умный и смелый, он поможет… Но можно ли доверять и ему?&lt;/p&gt;
+            &lt;br/&gt;Перевод: Фридман И. Н.&lt;br/&gt;Год издания: 1996&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 566 Kb&lt;br/&gt;Скачиваний: 2251&lt;br/&gt;Серия: Полнолуние любви&lt;br/&gt;</content>
+        <link href="/i/58/226958/_1.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/58/226958/_1.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/58/226958/_1.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/58/226958/_1.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/226958/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/226958/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/226958/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/226958/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/226958/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/226958/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/226958" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:9cc6af4b608766a599519f0a06da9148</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Гром небесный. Дерево, увитое плющом. Терновая обитель [litres, сборник]</title>
+        <author> <name>Стюарт Мэри</name>
+            <uri>/a/12029</uri>
+        </author>
+        <link href="/opds/author/12029" rel="related" type="application/atom+xml" title="Все книги автора Стюарт Мэри" />
+        <category term="Детективы" label="Детективы" />
+        <category term="Приключения" label="Приключения" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2019</dc:issued>
+        <content type="text/html">
+            &lt;p class=&quot;book&quot;&gt;Книги Мэри Стюарт завоевали сердца миллионов читателей, получив при этом высокую оценку критиков, особо отмечавших ее мастерство в жанре авантюрного романа. Ей, как никому другому, удалось объединить в сюжете лирическую тему, детективные ноты и поистине кинематографический саспенс. Романы Стюарт переводились на многие языки и до сих пор продолжают покорять читающую публику всех стран мира.&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;Героиня «Грома небесного» Дженнифер приезжает в монастырь у подножия Пиренейских гор, чтобы навестить свою кузину, и узнает страшную новость о ее смерти. Но путаница в объяснениях монашек заставляет Дженнифер усомниться в том, что на монастырском кладбище похоронена ее сестра…&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;В романе «Дерево, увитое плющом» страсти кипят вокруг английского наследства. Юную Мэри вовлекают в опасную авантюру, ведь девушка как две капли воды похожа на исчезнувшую восемь лет назад внучку владельца родового гнезда…&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;События, описанные в «Терновой обители», также происходят в Англии. Джили Рэмси переезжает в уединенное викторианское поместье, где любимая крестная оставила ей в наследство дом и сад, благоухающий цветами, целебными травами и немножечко… колдовством. Вскоре Джили узнает, что ее крестная недаром слыла ясновидящей и знахаркой, а попросту ведьмой…&lt;/p&gt;
+            &lt;br/&gt;Перевод: Юркан Маргарита Юрьевна, Максимова Александра, Виноградова Мария Михайловна&lt;br/&gt;Год издания: 2019&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 4769 Kb&lt;br/&gt;Скачиваний: 3141&lt;br/&gt;</content>
+        <link href="/i/79/551879/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/79/551879/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/79/551879/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/79/551879/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/551879/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/551879/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/551879/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/551879/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/551879/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/551879/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/551879" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:7c3527baa4b25e6b1c9034d297bc007f</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Дженнифер. Обитель скорби</title>
+        <author> <name>Хорунжий Виктор</name>
+            <uri>/a/168781</uri>
+        </author>
+        <link href="/opds/author/168781" rel="related" type="application/atom+xml" title="Все книги автора Хорунжий Виктор" />
+        <category term="Самиздат, сетевая литература" label="Самиздат, сетевая литература" />
+        <category term="Ужасы" label="Ужасы" />
+        <category term="Фэнтези" label="Фэнтези" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <content type="text/html">&lt;p class=&quot;book&quot;&gt;Что делать, когда рушится привычный мир, а в новом тебя преследуют кошмарные видения? Если ты видишь то, чего не видят другие – это сумасшествие? Или, может, сошел с ума весь остальной мир? Юной Дженнифер Паркер, родители которой погибли в автокатастрофе, неоткуда ждать защиты и помощи. Ее преследуют ужасные видения, вследствие чего она оказывается в психиатрической лечебнице. Но лечение не приносит облегчения. Вместе с новыми друзьями – такими же пациентами клиники, она пытается выбраться на свободу. Однако это дается ей нелегко, и покинуть больницу удается только с помощью таинственной женщины. Чтобы не стать следующей жертвой, она должна пройти через многие испытания, а чтобы спасти своих друзей – встретиться лицом к лицу со своими кошмарами.&lt;/p&gt;
+            &lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 1314 Kb&lt;br/&gt;Скачиваний: 931&lt;br/&gt;</content>
+        <link href="/i/46/450746/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/46/450746/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/46/450746/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/46/450746/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/450746/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/450746/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/450746/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/450746/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/450746/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/450746/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/450746" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:0d58dccc99d529717caa0d0b88a4751d</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Ежевика, святая обитель</title>
+        <author> <name>Хаецкая Елена Владимировна</name>
+            <uri>/a/17470</uri>
+        </author>
+        <link href="/opds/author/17470" rel="related" type="application/atom+xml" title="Все книги автора Хаецкая Елена Владимировна" />
+        <category term="Фэнтези" label="Фэнтези" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <link href="/opds/sequencebooks/5267" rel="related" type="application/atom+xml" title="Все книги серии &quot;Эльбийский патерик&quot;" />
+        <content type="text/html">        &lt;p class=book&gt;Хеддо прогневал страшное божество, которое гонится теперь за ним и его другом Этихо. Сильно и беспощадно божество, и нету уже почти никакой надежды избежать его страшной мести. Но случайно придя к избушке старца Оффы, друзья неожиданно обретают покровительство Единого Бога, который защит их…&lt;/p&gt;
+            &lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 59 Kb&lt;br/&gt;Скачиваний: 5139&lt;br/&gt;Серия: Эльбийский патерик #4&lt;br/&gt;</content>
+        <link href="/b/110160/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/110160/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/110160/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/110160/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/110160/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/110160/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/110160" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:e1a6afdf41de8a15129c171077b9a991</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Жужжащая обитель мух</title>
+        <author> <name>Литтл Бентли</name>
+            <uri>/a/7340</uri>
+        </author>
+        <link href="/opds/author/7340" rel="related" type="application/atom+xml" title="Все книги автора Литтл Бентли" />
+        <category term="Ужасы" label="Ужасы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2013</dc:issued>
+        <content type="text/html">
+            &lt;p class=book&gt;Держитесь подальше от этого места, — говорил мне дедушка. — Оно населено призраками и хранит страшные тайны…&lt;/p&gt;
+            &lt;br&gt;
+            &lt;p class=book&gt;Рассказ из авторского сборника «The Collection»&lt;/p&gt;
+            &lt;br/&gt;Год издания: 2013&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 110 Kb&lt;br/&gt;Скачиваний: 1549&lt;br/&gt;</content>
+        <link href="/i/54/338454/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/54/338454/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/54/338454/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/54/338454/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/338454/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/338454/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/338454/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/338454/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/338454/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/338454/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/338454" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:257d14294bba089b3cc89426f5944da6</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>За святую обитель</title>
+        <author> <name>Лебедев Владимир Петрович</name>
+            <uri>/a/80652</uri>
+        </author>
+        <link href="/opds/author/80652" rel="related" type="application/atom+xml" title="Все книги автора Лебедев Владимир Петрович" />
+        <category term="Историческая проза" label="Историческая проза" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1900</dc:issued>
+        <content type="text/html">
+            &lt;p class=book&gt;Исторический роман из Смутного времени&lt;/p&gt;
+            &lt;br/&gt;Год издания: 1900&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 723 Kb&lt;br/&gt;Скачиваний: 877&lt;br/&gt;</content>
+        <link href="/i/5/243405/_0810160959440.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/5/243405/_0810160959440.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/5/243405/_0810160959440.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/5/243405/_0810160959440.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/243405/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/243405/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/243405/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/243405/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/243405/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/243405/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/243405" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:e16ac5aedd489aba62a10e0769557b56</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Зимняя обитель [ЛП]</title>
+        <author> <name>Харт Рокси</name>
+            <uri>/a/208344</uri>
+        </author>
+        <link href="/opds/author/208344" rel="related" type="application/atom+xml" title="Все книги автора Харт Рокси" />
+        <category term="Короткие любовные романы" label="Короткие любовные романы" />
+        <category term="Современные любовные романы" label="Современные любовные романы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2016</dc:issued>
+        <content type="text/html">
+            &lt;p class=&quot;book&quot;&gt;&lt;i&gt;Что принесёт героине долгожданное путешествие в уединённый уголок живописного Дербишира? Исцеление сердечных ран? Новую любовь? Ответы на эти вопросы вы найдёте в этом эротическом рассказе от Рокси Харт, полном зимней романтики и пылкой страсти.&lt;/i&gt;  &lt;/p&gt;
+            &lt;br/&gt;Перевод: Группа Translation for you&lt;br/&gt;Год издания: 2016&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 183 Kb&lt;br/&gt;Скачиваний: 1330&lt;br/&gt;</content>
+        <link href="/i/99/535899/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/99/535899/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/99/535899/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/99/535899/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/535899/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/535899/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/535899/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/535899/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/535899/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/535899/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/535899" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:7c21645907b440662c6c64473c8fee57</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Испанский Парнас, двуглавая гора, обитель девяти кастильских муз</title>
+        <author> <name>де Кеведо Франсиско</name>
+            <uri>/a/33949</uri>
+        </author>
+        <link href="/opds/author/33949" rel="related" type="application/atom+xml" title="Все книги автора де Кеведо Франсиско" />
+        <category term="Европейская старинная литература" label="Европейская старинная литература" />
+        <category term="Поэзия" label="Поэзия" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <content type="text/html">Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 167 Kb&lt;br/&gt;Скачиваний: 1555&lt;br/&gt;</content>
+        <link href="/b/122195/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/122195/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/122195/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/122195/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/122195/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/122195/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/122195" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:be0927c98e97aa10c618c47769a35004</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Истинное естество [+ &quot;Обитель древних&quot;, вторая книга, без разбиения на части]</title>
+        <author> <name>Яцула Олег</name>
+            <uri>/a/229246</uri>
+        </author>
+        <link href="/opds/author/229246" rel="related" type="application/atom+xml" title="Все книги автора Яцула Олег" />
+        <category term="Боевая фантастика" label="Боевая фантастика" />
+        <category term="ЛитРПГ" label="ЛитРПГ" />
+        <category term="Самиздат, сетевая литература" label="Самиздат, сетевая литература" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <link href="/opds/sequencebooks/63790" rel="related" type="application/atom+xml" title="Все книги серии &quot;Истинное Естество&quot;" />
+        <content type="text/html">
+            &lt;p class=&quot;book&quot;&gt;История молодого парня с Земли, росшего в детском доме, не зная своих родителей.&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;Его жизнь меняется по щелчку пальцев. Словно гром среди ясного неба грянул день когда в его жизни все изменилось.&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;Исчезло все, от раскладушки в коммуналке и до опостылевшей работы бармена.&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;Что он сделает когда окажется посреди джунглей другого мира?&lt;/p&gt;
+            &lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 1610 Kb&lt;br/&gt;Скачиваний: 4084&lt;br/&gt;Серия: Истинное Естество #1&lt;br/&gt;</content>
+        <link href="/i/8/613708/_94a341988fd34777a041c6bb526561b1.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/8/613708/_94a341988fd34777a041c6bb526561b1.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/8/613708/_94a341988fd34777a041c6bb526561b1.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/8/613708/_94a341988fd34777a041c6bb526561b1.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/613708/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/613708/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/613708/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/613708/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/613708/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/613708/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/613708" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:c0354add0ef6e68b91cc23934eaabae0</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Костомаровская пещерная обитель в XX веке. Исторические очерки.</title>
+        <author> <name>Степкин Виталий Викторович</name>
+            <uri>/a/102332</uri>
+        </author>
+        <link href="/opds/author/102332" rel="related" type="application/atom+xml" title="Все книги автора Степкин Виталий Викторович" />
+        <category term="История" label="История" />
+        <category term="Религия, религиозная литература" label="Религия, религиозная литература" />
+        <dc:language>ru</dc:language>
+        <dc:format>djvu+zip</dc:format>
+        <dc:issued>2006</dc:issued>
+        <link href="/opds/sequencebooks/27130" rel="related" type="application/atom+xml" title="Все книги серии &quot;Духовное краеведение&quot;" />
+        <content type="text/html">
+            &lt;p class=book&gt;Исторические очерки освещают жизнь древнего святого места на Дону - Костомаровской пещерной обители в XX веке на основе архивных материалов, неопубликованных рукописей и личных воспоминаний. Описывается жизнь костомаровских старцев - блаженного Петра и отца Андрея.&lt;/p&gt;
+            &lt;p class=book&gt;Второе издание дополнено цветными фотографиями современных видов Костомаровского Спасского женского монастыря Воронежской и Борисоглебской епархии, а также фотографиями и воспоминаниями очевидцев.&lt;/p&gt;
+            &lt;p class=book&gt;Историкам, краеведам, спелеологам, православным христианам и всем читателям, интересующимся историей нашей Родины - России.&lt;/p&gt;
+            &lt;br/&gt;Год издания: 2006&lt;br/&gt;Формат: djvu&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 12846 Kb&lt;br/&gt;Скачиваний: 241&lt;br/&gt;Серия: Духовное краеведение&lt;br/&gt;</content>
+        <link href="/b/291771/download" rel="http://opds-spec.org/acquisition/open-access" type="application/djvu+zip" />
+        <link href="/b/291771" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:d55806518db4f8460ad0a5fd17d06bc4</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Кровавая Обитель</title>
+        <author> <name>Снежная Марина Александровна</name>
+            <uri>/a/169743</uri>
+        </author>
+        <link href="/opds/author/169743" rel="related" type="application/atom+xml" title="Все книги автора Снежная Марина Александровна" />
+        <category term="Любовное фэнтези, любовно-фантастические романы " label="Любовное фэнтези, любовно-фантастические романы " />
+        <category term="Самиздат, сетевая литература" label="Самиздат, сетевая литература" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <link href="/opds/sequencebooks/43641" rel="related" type="application/atom+xml" title="Все книги серии &quot;Беглянка из Сумеречного мира&quot;" />
+        <content type="text/html">
+            &lt;p class=&quot;book&quot;&gt;Кровавая Обитель — место, где новообращенные вампиры проходят окончательное перерождение. Могла ли я представить, что это место станет для меня не только личным адом, но и откроет новые возможности. А еще и что именно здесь встречу свою первую любовь?&lt;/p&gt;
+            &lt;p class=&quot;book&quot;&gt;Только вот как быть, если любимый целиком подвластен древней двухтысячелетней вампирше? А на меня саму имеет виды сам Властелин. Да тут еще и определяться надо, кого я хочу видеть в качестве Хозяина. Голова кругом идет! Но знаю одно — я точно найду способ сбежать. Да еще и не одна, а с любимым. Осталось только придумать, как именно это сделать и в ком могу найти союзника…&lt;/p&gt;
+            &lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 641 Kb&lt;br/&gt;Скачиваний: 3766&lt;br/&gt;Серия: Беглянка из Сумеречного мира #2&lt;br/&gt;</content>
+        <link href="/i/34/525434/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/34/525434/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/34/525434/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/34/525434/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/525434/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/525434/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/525434/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/525434/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/525434/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/525434/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/525434" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:5cc2d15b79b115ec19b9f5c16a65189d</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Кровавая обитель</title>
+        <author> <name>Уоллес Эдгар</name>
+            <uri>/a/12846</uri>
+        </author>
+        <link href="/opds/author/12846" rel="related" type="application/atom+xml" title="Все книги автора Уоллес Эдгар" />
+        <author> <name>Стокер Брэм</name>
+            <uri>/a/20523</uri>
+        </author>
+        <link href="/opds/author/20523" rel="related" type="application/atom+xml" title="Все книги автора Стокер Брэм" />
+        <author> <name>де Лорка Фрэнк</name>
+            <uri>/a/32455</uri>
+        </author>
+        <link href="/opds/author/32455" rel="related" type="application/atom+xml" title="Все книги автора де Лорка Фрэнк" />
+        <author> <name>Эллиот Брайан</name>
+            <uri>/a/32496</uri>
+        </author>
+        <link href="/opds/author/32496" rel="related" type="application/atom+xml" title="Все книги автора Эллиот Брайан" />
+        <category term="Детективы" label="Детективы" />
+        <category term="Ужасы" label="Ужасы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1993</dc:issued>
+        <content type="text/html">
+            &lt;p class=book&gt;В этих произведениях, впервые переводящихся на русский язык, читатель соприкоснется с романами, новеллами и повестями, исполненными ужаса, мистики, тайны, пройдет по различным ответвлениям этого жанра — от новелл о Дракуле популярного английского мистика Брэма Стокера до детективной истории знаменитого Эдгара Уоллеса.&lt;/p&gt;
+            &lt;br/&gt;Год издания: 1993&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 1986 Kb&lt;br/&gt;Скачиваний: 2880&lt;br/&gt;</content>
+        <link href="/i/90/374490/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/90/374490/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/90/374490/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/90/374490/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/374490/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/374490/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/374490/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/374490/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/374490/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/374490/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/374490" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:da7c9b2b02cd50de524e22d81ded8e16</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Кровавая обитель</title>
+        <author> <name>де Лорка Фрэнк</name>
+            <uri>/a/32455</uri>
+        </author>
+        <link href="/opds/author/32455" rel="related" type="application/atom+xml" title="Все книги автора де Лорка Фрэнк" />
+        <category term="Детективы" label="Детективы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>1993</dc:issued>
+        <content type="text/html">
+            &lt;p class=book&gt;Остросюжетная история похищения и возвращения драгоценного епископского посоха.&lt;/p&gt;
+            &lt;br/&gt;Год издания: 1993&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 311 Kb&lt;br/&gt;Скачиваний: 1637&lt;br/&gt;</content>
+        <link href="/i/91/374491/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/91/374491/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/91/374491/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/91/374491/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/374491/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/374491/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/374491/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/374491/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/374491/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/374491/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/374491" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:409f950ba777e32ac005c9a422d2dc87</id>
+    </entry>
+    <entry> <updated>2022-08-10T08:13:44+02:00</updated>
+        <title>Кровавая обитель</title>
+        <author> <name>Примроуз Джеффри</name>
+            <uri>/a/155760</uri>
+        </author>
+        <link href="/opds/author/155760" rel="related" type="application/atom+xml" title="Все книги автора Примроуз Джеффри" />
+        <category term="Ужасы" label="Ужасы" />
+        <dc:language>ru</dc:language>
+        <dc:format>fb2+zip</dc:format>
+        <dc:issued>2015</dc:issued>
+        <link href="/opds/sequencebooks/40951" rel="related" type="application/atom+xml" title="Все книги серии &quot;Антология мировой готики&quot;" />
+        <content type="text/html">&lt;p class=&quot;book&quot;&gt;Темны дела твои, Господи! Как всё меняется со временем! То, что в старину было медвежьим углом, пустынным горным перевалом, где несколько монахов спасали свои души в благословенном уединении своего монастыря, сегодня превратилось в фешенебельный горнолыжный курорт. И здесь теперь богатые иностранцы прожигают жизнь и развлекаются со своими подружками. Однако для всех безбожников уже уготован Божий суд и пусть не скорая, но неизбежная расправа. Их уже подстерегают монахи заблудившиеся в хитросплетениях пространства и времени.&lt;/p&gt;
+            &lt;br/&gt;Перевод: Моргун Леонид Иванович&lt;br/&gt;Год издания: 2015&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 727 Kb&lt;br/&gt;Скачиваний: 881&lt;br/&gt;Серия: Антология мировой готики&lt;br/&gt;</content>
+        <link href="/i/64/422564/cover.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/i/64/422564/cover.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/i/64/422564/cover.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+        <link href="/i/64/422564/cover.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/b/422564/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+        <link href="/b/422564/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+        <link href="/b/422564/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+        <link href="/b/422564/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+        <link href="/b/422564/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+        <link href="/b/422564/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+        <link href="/b/422564" rel="alternate" type="text/html" title="Книга на сайте" />
+        <id>tag:book:540b01537bb03f09116f783bd158b8e8</id>
+    </entry>
+</feed>
